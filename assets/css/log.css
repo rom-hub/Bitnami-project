@@ -1,0 +1,78 @@
+@import url("fontawesome-all.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
+html, body, div, span, applet, object,
+iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+pre, a, abbr, acronym, address, big, cite,
+code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b,
+u, i, center, dl, dt, dd, ol, ul, li, fieldset,
+form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output, ruby,
+section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;}
+
+	h1 {
+		font-size: 250%;
+	}
+
+/* 	  
+    body {
+        line-height: 1;
+        background: rgba(140, 140, 140, 0.171);
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 250%;
+		font-weight: 300;
+		line-height: 1.75em;
+		color: rgb(0, 0, 0);
+        /*가운데정렬*/
+        /* display: flex;
+        justify-content: center;
+        align-items:center;
+        min-height: 100vh;
+    }
+
+
+    span {
+        position: relative;
+    }
+
+
+    #log {
+        width: 500px;
+    }
+
+
+    #signinButton {
+		width:140px;
+		height: 80px;
+		background-color: #0000e9;
+		border: none;
+		color: white;
+		box-shadow: 0 4px 16px rgba(19, 0, 68, 0.3);
+		font-size: 20px;
+		font-weight: bold;
+		border-radius: 20px;
+		transition: 03s;
+		transform: translatex(250px);
+        position: relative;
+        right: 40%;
+        bottom: 25px;
+	}
+
+	#signinButton:focus{
+		outline: 0;
+	}
+
+	#signinButton:hover{
+		background-color: rga(0, 79, 255, 0.9);
+		cursor: pointer;
+		box-shadow: 0 2px 4px rgba(0, 79, 255, 0.6);
+	} */

@@ -1,0 +1,20 @@
+.scrolltable{
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 1px solid #888;
+}
+.scrolltable thead {
+    background: #a88;
+    color:#fff;
+}
+/* 행 장식 */
+.scrolltable th, .scrolltable td {
+  padding: 10px;
+  text-align: left;
+  width: 100px;
+  text-align: center;
+  font-size: 0.875em;
+}
+.scrolltable tbody tr:nth-child(2n+1){
+    background-color: #f0f0f0;
+}
